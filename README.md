@@ -13,5 +13,5 @@
 - 🌱 Estoy en el curso de Henry de Full Stack.
 - Lenguajes de Programación aprendidos: python3, javascript, php, html, css, BASH and some powershell.
 - 📫 Como contactarme: alegpascal@hotmail.com
-- 
+
 
