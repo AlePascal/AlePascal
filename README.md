@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @AlePascal
+- English:
+-  👋 Hi, I’m @AlePascal
 - I am Systems Administrator and Free Software Technician.
 - I am also Electric Technician.
 - 👀 I’m interested in Developing, programming and technology.
@@ -6,6 +7,7 @@
 - Programming languajes: python3, javascript, php, html, css, BASH and some powershell.
 - 📫 How to reach me: alegpascal@hotmail.com
 
+- Español:
 - 👋 Hola, Soy @AlePascal
 - Soy Técnico Universitario en Administración de Sistemas y Software Libre.
 - Soy en Técnico Electrónico.
