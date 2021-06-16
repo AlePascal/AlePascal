@@ -12,6 +12,6 @@
 - 👀 Estoy interesado en la programación, Software y Tecnología.
 - 🌱 Estoy en el curso de Henry de Full Stack.
 - Lenguajes de Programación aprendidos: python3, javascript, php, html, css, BASH and some powershell.
-- 📫 How to reach me: alegpascal@hotmail.com
+- 📫 Como contactarme: alegpascal@hotmail.com
 - 
 
